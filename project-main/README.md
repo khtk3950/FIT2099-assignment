@@ -8,7 +8,7 @@ KHOO TIONG YUE
 
 This project is a rogue like game based on a given engine.
 To start the game run the Appliction.java file.
-UML diagrams and design rationale is included.
+UML diagrams and design rationale are included.
 
 
 
